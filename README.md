@@ -1,4 +1,4 @@
-# Task For automating facebook regesiteration 
+# Task For automating facebook registeration 
 please replace path for chrome driver for absolute path before running test
 
 
